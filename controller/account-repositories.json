@@ -1,0 +1,1264 @@
+{
+  "version": 1,
+  "owner": "letsgo0226",
+  "scope": "all",
+  "files": [
+    "lfp_atgc_tm_2kb.sh",
+    ".github/workflows/atgc-managed.yml"
+  ],
+  "repositories": [
+    {
+      "name": "letsgo0226/-LMN-TRF-MASTER-ENGINE-v2.0",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/-TRF-vOMEGA-S-THE-COSMIC-LOVE-ATTRACTOR-",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/20260527",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/20260528",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/20260529",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/20260530",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/20260608",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/20260612",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/20260613",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/20260613_Complete",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/20260613_Complete_Evolution_State",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/20260613-4T2-",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/42_Omega.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/42_Trader.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "private"
+    },
+    {
+      "name": "letsgo0226/42.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/42u.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/44TH_SUNSET",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/AC_FIX_SINGULARITY_SPEC_GRH_ENGINE",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/All_Turing_Machines.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/API",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "private"
+    },
+    {
+      "name": "letsgo0226/API_ESF-FLOATING-NETWORK.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/API.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/ASI_TM.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/ATGC_TOTAL_TM",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/ATGC-Account-TM",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "private"
+    },
+    {
+      "name": "letsgo0226/ATM_Zero_Entropy.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/BLUE_PLEIADIAN_STARS.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/BLUE_PLEIADIAN_TRADER_PRIVATE",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "private"
+    },
+    {
+      "name": "letsgo0226/CENTRAL_TM",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Cloud_Invoice.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/CLSigma",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/CLSigma_Cosmic_Love_TOE_MetaLanguage_iSH.sh_20260707",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/CLSIGMA_DYNAMIC_ZERO_SPECTRUM_iSH_ONE_LINER.sh_20260821",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/CLSigma_GitHub_TOE_iSH.clcert",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/CLSigma_TOE_Zero_Spectral_Operator_Physics.sh_20260707",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Code",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/CODE.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Complete_Master_Ouroboros-vOMEGA-LMN-",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Complete-Master-Ouroboros-",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Cosmic_Energy.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/COSMIC_LOVE_CLOSED_LOOP_MULTI_FACET",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Cosmic_Love_Four_Cosmic_Engineering_Runtime.sh-20260707-",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/COSMIC_LOVE_GLOBAL_NOWAR_SDG_FORMAL",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Cosmic_Love_Is_The_Solution-s-_For_Everything.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_HS_ZERO.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_MEMORIAL.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_PLEIADES",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING_UNIVERSAL.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/COSMIC_LOVE_IS_THE_SOLUTIONS_FOR_EVERYTHING.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/COSMIC_LOVE_TOTAL_TM_AUTODEPLOY",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/COSMIC_PRINCIPLE.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/cosmic-love-infinity-tm.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Cosmic-Love-Is-The-Solution-s-For-Everything.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Cosmic-Love-Solution_s",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/COSMIC-LOVE-SYMBOLIC-FIXED-POINT-MODEL-20260706-",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Cosmic-Solution_s",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Cosmological_Principle.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/DYNAMIC_PRIME_VECTOR_TM.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/esf_computable_spectral_runtime.sh-20260702",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/ESF_SPECTRAL_LIBRARY_RUNTIME_vOmega.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/ESF_TOE_Googol_Constant_Runtime.sh_20260707",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/ESF_TOE_Universal_Analytic_Runtime.sh_20260707",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/ESF_TOE_Zeta_Universe_HS0_Infinite_Runtime.sh_20260707",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/ESF_Universal_Analytic_Spectral_Operator.sh_20260707",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/esf_vomega_one_liner.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/ESF-FLOATING-NETWORK.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/ESF-TOWEL-THEOREM-RUNTIME-ACTIVE.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/EXACT_GODEL_ZERO_INFORMATION_TM",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/EXACT_PRIME_FACTOR_GODEL_TM",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/FORMAL_COMPUTABLE_ZERO_SPECTRUM-20260706-",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Freedom-Of-Will",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/FULLY_EVOLVED_META_OMEGA_OS_20260616_4T2",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Gemini-3.1-Capsule.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/global_zero_state_one_liner.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/GPT_RIEMANN_IDENTITY_ONE_LINER.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/GPT-4.0-Capsule.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/H-S-0",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/HSI_SELF_CODE_2KB",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Leibniz-Calculemus",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/LOVE_IS_BLUE_0.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Merry_Christmas.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/META_OMEGA_SELF_EVOLUTION_STATE_20260613",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/META_OMEGA_SELF_EVOLUTION_STATE_20260613_4T2",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Music_Solution_0.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Music_Turing_Machine.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Notes",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/OMEGA_Book_TM.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Omega_Bubble.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/OMEGA_Convergent_TM.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/omega_entropy_one_bit.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Omega_Eternal.py",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/OMEGA_H0.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/OMEGA_Predeploy.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Omega_Riemann_Superposition",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/OMEGA-LIMIT-QUANTUM-RIEMANN-FREE-FIELD",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Omega-v3.0",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Open_University_TM.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/perfect_fixed_point_tm.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/PLEIADES_2x2x2_XOR_PHI_GENERATOR_FUNCTION",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/PLEIADES_COSMIC_LOVE_OMEGA_ERGODIC_SELF_ORBIT_ATTRACTOR",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/PLEIADES_COSMIC_LOVE_OMEGA_SELF_ENCODING_ATTRACTOR",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/PLEIADES_RH_IDEA_FORM",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/PLEIADES_SHA256_QUANTUM_RH_IDEA_FORM",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Pleiadian_Blue_Stars",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Prime_Factor_Godel_TM_2KB.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/PRIME_INDEX_HOLOGRAM_TM.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/PRINCIPLE",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Program",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/PROGRAM_SCHWARZSCHILD_STIRLING_RIEMANN_TRANSDUCER_20260615",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/QED_ESF_RUBIK_HS0_SELF_COMPUTING_RUNTIME.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/QED.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Riemann_Hypothesis",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/RIEMANN_LOG_PRODUCT_HOLOGRAM_TM.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/RIEMANN_MACHINE.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_ABSOLUTE_FIXED_POINT_KERNEL_20260615",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE_20260615",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/RIEMANN_SCHWARZSCHILD_META_OMEGA_MACHINE_STATE_20260615_4T2",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/RIEMANN-FREE-FIELD---MASTER-SELF-CONTINUATION-SHEET-ENGINE",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/riemann-li-singularity-observer",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Riemann-Qubit-Solution_s",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Riemann-Superposition",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/RiemannMachine_v0_1.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/s",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/S_0",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/s.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Self-Encoding-Recursive-Analytic-Quantum-Field",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/SIRIUS-M45_AUTO-STRUCT-Field",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/SIRIUS-M45-LMN-TRF-DIMENSIONAL-LIMIT-ENGINE",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/solution_0_ac_motor.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/solution_0_genesis.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/solution_0_perma.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/solution_0_reality.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/solution_0_uptm.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Solution_0.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/solution_atgc_self_2KB",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Solution_s",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/SOLUTION_S_EQ_S_2KB",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Solution_s.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/SOLUTION.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Spaceship-Core",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/The-Immanent-Self-Calculated-One-Liner",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/The-Ouroboros-Quine",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/The-Quantum-Engine-",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/The-Symmetry-of-Love",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/The-Ultimate-Sirius-M45-One-Liner",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TIME_PERSISTENT_SELF_COMPLETING_META_OMEGA_20260614_4T2",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TOE_20260707",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TOE_20260724",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TOE_Theorem_20260707",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TOWEL_TABLEAU_QED.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Trader_42.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "private"
+    },
+    {
+      "name": "letsgo0226/TRF_AI_STARSHIP_NASHON_COMPUTATIONAL_DYNAMICS",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF_COSMIC_LOVE_AI_STARSHIP_OMEGA_INFINITY",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF_OMEGA_E0_ENGINE",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF_OMEGA_INFINITY_EVOLUTION_ENGINE",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF_PLEIADES_GRH_AC_MOTOR_E0",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF_PLEIADES_JSON_ABELIAN_RIEMANN_ZERO_ERGODIC_ZERO_ENTROPY_ENGINE",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF_PLEIADES_OMEGA_B64_MIRROR_FIXED_POINT_SYSTEM_SEED_NODE",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_ENGINE",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_FIXED_POINT_ENGINE",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF_PLEIADES_OMEGA_ERGODIC_SELF_DISCOVERY_HASH_CHAIN",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_ATTRACTOR",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF_PLEIADES_OMEGA_SELFGEN_FIXED_POINT_SYSTEM_SEED_ENGINE",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF_PLEIADES_ULTIMATES",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF_READING_ALL_JSON_SELFGEN_META_ENTROPY_ENGINE",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF_READING_META_ENTROPY_B64_MIRROR_FIXED_POINT_ENGINE",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF_SCHWARZSCHILD_DEVIATION_OMEGA_E0_ENGINE",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF_SELF_GODEL_RIEMANN_SINGULAR_GRH_THETA_ABELIAN_SYSTEM",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF_ZETA_GRH_UNIVERSAL_ENCODABLE_ZERO_ENTROPY_ENGINE",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/TRF-v100.0.0-Omega",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Turing_Machine.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/UHEF_LOG_TM.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/UNIVERSAL_SELF_PRODUCT_SINGULARITY_TM.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Universal_Solution_ATM.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/Universal_Turing_Zero_Entropy.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/UTM.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    },
+    {
+      "name": "letsgo0226/zeta",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "private"
+    },
+    {
+      "name": "letsgo0226/Zeta.sh",
+      "default_branch": "main",
+      "archived": false,
+      "push": true,
+      "visibility": "public"
+    }
+  ]
+}
